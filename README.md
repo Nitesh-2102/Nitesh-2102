@@ -17,7 +17,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 - 🔭 &nbsp; I'm currently working as a **Full Stack Developer**
-- 🤖 &nbsp; I'm currently learning **Generative AI & Python**
+- 🤖 &nbsp; I'm currently learning **Generative AI & Python && AI Tools**
 - ⚡ &nbsp; In my free time I explore the **deeper mechanics of how applications & systems really work**
 - 💡 &nbsp; I believe in understanding things from first principles — not just *what* works, but *why*
 
